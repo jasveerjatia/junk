@@ -88,8 +88,8 @@ float - correct
 4.0 - correct
 
 d('apple', 11.1)
-boolean - correct
-True - correct
+NoneType - correct
+error - correct
 
 e(a(3), b(4), c(3, 4))
 boolean - correct
