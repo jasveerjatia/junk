@@ -25,7 +25,7 @@ function - correct
 function - correct
 
 b(a, b)
-function - correct
-function - correct
+Nonetype - correct
+error- correct
 
 Perhaps contrary to expectations, in Python it is legal to compare functions!
